@@ -20,7 +20,7 @@ Uma calculadora web completa desenvolvida com HTML, CSS e JavaScript que suporta
 - Botão C para limpar tudo
 - Interface de usuário amigável
 
-## Link Hospedado
+## Link Hospedado 🌐
 
 Você pode acessar o Quiz Interativo hospedado no GitHub Pages [aqui](https://eusoujao.github.io/Calculadora/).
 
